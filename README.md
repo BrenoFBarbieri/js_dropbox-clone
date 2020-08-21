@@ -2,14 +2,14 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 #README
 ------------------------------------------------------------------------------------------------------------------------------------------
-#Sobre o projeto:
+#About the project:
 
- O objetivo desse projeto clone, é de estudar o upload de arquivos, leitura dos arquivos, renomear arquivos, deletar e criação de pasta e suas navegações.
+ The objective of this clone project is to study file upload, read files, rename files, delete and create folders and their browsers.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
- #Tecnologias utilizadas:
+ #Technologies used:
  
- - Manipulação do DOM (Document Object Model)
+ - DOM manipulation (Document Object Model)
  - NodeJS
  - Express
  - AJAX
